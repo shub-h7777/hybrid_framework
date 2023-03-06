@@ -1,7 +1,6 @@
-import pytest
 from assertpy import assert_that
-from selenium import webdriver
 from selenium.webdriver.common.by import By
+
 from base.webdriver_listner import WebDriverWrapper
 
 

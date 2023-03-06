@@ -1,5 +1,6 @@
-from selenium import webdriver
 import pytest
+from selenium import webdriver
+
 
 class WebDriverWrapper:
     @pytest.fixture(scope="function", autouse=True)
