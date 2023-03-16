@@ -5,7 +5,6 @@ from assertpy import assert_that
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
-
 from base.webdriver_listner import WebDriverWrapper
 from utilities import data_source
 
